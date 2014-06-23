@@ -23,7 +23,7 @@ setup(
     name='django-hosts',
     description="Dynamic and static hosts support for Django.",
     long_description=read('README.rst'),
-    version=find_version("django_hosts", "__init__.py") + '-custom3',
+    version=find_version("django_hosts", "__init__.py") + '-custom4',
     url='http://django-hosts.rtfd.org/',
     author='Jannis Leidel',
     author_email='jannis@leidel.info',
